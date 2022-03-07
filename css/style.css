@@ -3,17 +3,17 @@ body{
 }
 
 .navbar{
-    background-color: #298a08;
-}
+    background-color: #0f8a23;
+    }
 
 .quem-somos{
-    background-color: #8181f7;
+    background-color:rgb(192, 219, 228);
     color: white;
 }
 
 .margin{
-    padding-bottom: 50px;
-    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-top: 15px;
 }
 
 .parceiros{
@@ -23,4 +23,5 @@ body{
 .bg-footer{
     background-color: black;
     color: white;
+    font-size: 15px;
 }
